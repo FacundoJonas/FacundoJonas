@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://git.io/typing-svg"><img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&width=435&lines=%F0%9F%9A%80+Bienvenido+a+mi+repositorio!+;%F0%9F%92%BB+Programador%7CRedes%7CHacking+Etico;%F0%9F%94%A7+Siempre+aprendiendo+nuevas+tecnologias!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&width=435&lines=%F0%9F%9A%80+Bienvenido+a+mi+repositorio!+;%F0%9F%92%BB+Programador%7CRedes%7CHacking+Etico;%F0%9F%94%A7+Siempre+aprendiendo+nuevas+tecnologias!"/>
 </p>
 
 <hr style="border: 2px solid #FF5733;">
