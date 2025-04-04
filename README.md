@@ -23,7 +23,7 @@
 </p>
 
 <a href="#FacundoJonas-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Marrugo&show_icons=true&theme=radical" alt="Estadísticas de GitHub de FacundoJonas" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FacundoJonas&show_icons=true&theme=radical" alt="Estadísticas de GitHub de FacundoJonas" align="right" />
 </a>
 
 - 💼 &nbsp; **Estudiando Lic en Sistemas**  
