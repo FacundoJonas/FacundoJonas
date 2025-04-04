@@ -5,18 +5,18 @@
 </p>
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ¡Hola! Soy Carlos Marrugo / @carlosdev ✨🔥
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ¡Hola! Soy Facundo Jonas ✨🔥
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=🚀+Bienvenido+a+mi+repositorio!+🔥;💻+Programador+Full+Stack!;📚+Creador+de+contenido+tecnol%C3%B3gico!;🔧+Siempre+aprendiendo+nuevas+tecnolog%C3%ADas!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=🚀+Bienvenido+a+mi+repositorio!+🔥;💻+Programador+Redes+Hacking!;📚+Creador+de+contenido+tecnol%C3%B3gico!;🔧+Siempre+aprendiendo+nuevas+tecnolog%C3%ADas!" />
 </p>
 
 <hr style="border: 2px solid #FF5733;">
 
 <h3 align="left">Software Developer</h3>
 
-<h3 align="left">Desarrollador Fullstack especializado en Backend con Spring Boot y Frontend con Angular</h3>
+<h3 align="left">Estudiante de Sistemas interesado en Programacion,Redes y Hacking etico</h3>
 
 <p align="left">
   <a href="https://github.com/Carlos-Marrugo">
