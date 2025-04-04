@@ -98,9 +98,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <a href="#tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" alt="Apache" />
       </a>
       <br>AWS
     </td>
