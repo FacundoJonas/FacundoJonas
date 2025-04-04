@@ -1,9 +1,4 @@
 ### 🚀 **BIENVENIDO A MI MUNDO DIGITAL!** 🌟🔥💻
-
-<p align="center">
-  <img src="Imagenes/edff9344-027f-483a-bda9-833d69f0c4be-cover.png" alt="Banner" width="100%">
-</p>
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ¡Hola! Soy Facundo Jonas ✨🔥
 </h1>
@@ -34,7 +29,9 @@
 - 💼 &nbsp; **Estudiando Lic en Sistemas**  
 - 🌱 &nbsp; Estoy aprendiendo más sobre **Programacion,Redes Y Hacking**  
 - 💬 &nbsp; Me gusta hablar sobre **Java,Phyton, C++**  
-- 📫 &nbsp; Contáctame en **[LinkedIn](https://www.linkedin.com/in/facundo-jonas-043a0020a/)**  
+- 📫 &nbsp; Contáctame en <a href="https://www.linkedin.com/in/facundo-jonas-043a0020a/" target="_blank" style="font-size: 16px; color: black; font-weight: bold; text-decoration: none;">LinkedIn</a>
+
+
 
 ## 🔥 **Tecnologías y herramientas** 🚀💻
 
@@ -89,29 +86,7 @@
       <a href="#tech-stack">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular" />
       </a>
-      <br>Angular
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-      </a>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
     </td>
@@ -127,35 +102,11 @@
       <a href="#tech-stack">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" alt="Apache" />
       </a>
-      <br>Apache
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
-      </a>
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="48" height="48" alt="AWS" />
-      </a>
       <br>AWS
     </td>
     <td align="center" width="96">
       <a href="#tech-stack">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
-      </a>
-      <br>Jira
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
       </a>
       <br>VS Code
     </td>
@@ -163,13 +114,6 @@
       <a href="#tech-stack">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" />
       </a>
-      <br>Jenkins
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
-      </a>
-      <br>Figma
     </td>
   </tr>
 </table>
