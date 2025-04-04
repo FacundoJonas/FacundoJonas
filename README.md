@@ -33,7 +33,7 @@
 
 
 
-## 🔥 **Tecnologías y herramientas** 🚀💻
+##  🚀**Tecnologías y herramientas** 💻
 
 **Languages and Tools:** 
 
