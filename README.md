@@ -107,9 +107,6 @@
       </a>
       <br>VS Code
     </td>
-    <td align="center" width="96">
-      <a href="#tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" />
       </a>
     </td>
   </tr>
