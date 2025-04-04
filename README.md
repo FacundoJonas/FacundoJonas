@@ -19,22 +19,22 @@
 <h3 align="left">Estudiante de Sistemas interesado en Programacion,Redes y Hacking etico</h3>
 
 <p align="left">
-  <a href="https://github.com/Carlos-Marrugo">
-    <img src="https://komarev.com/ghpvc/?username=Carlos-Marrugo" alt="Visitas al perfil" />
+  <a href="https://github.com/FacundoJonas">
+    <img src="https://komarev.com/ghpvc/?username=FacundoJonas" alt="Visitas al perfil" />
   </a>
-  <a href="https://github.com/Carlos-Marrugo?tab=followers">
-    <img alt="GitHub seguidores" src="https://img.shields.io/github/followers/Carlos-Marrugo?style=flat&logo=github">
+  <a href="https://github.com/FacundoJonas?tab=followers">
+    <img alt="GitHub seguidores" src="https://img.shields.io/github/followers/FacundoJonas?style=flat&logo=github">
   </a>
 </p>
 
-<a href="#carlos-marrugo-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Marrugo&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Carlos Marrugo" align="right" />
+<a href="#FacundoJonas-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Marrugo&show_icons=true&theme=radical" alt="Estadísticas de GitHub de FacundoJonas" align="right" />
 </a>
 
-- 💼 &nbsp; **Estudiando Ingenieria de Software**  
-- 🌱 &nbsp; Estoy aprendiendo más sobre **Arquitectura de Microservicios**  
-- 💬 &nbsp; Me gusta hablar sobre **Java, Spring Boot, Angular y tecnologías web**  
-- 📫 &nbsp; Contáctame en **[LinkedIn]([https://www.linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/carlos-marrugo-701261283/))**  
+- 💼 &nbsp; **Estudiando Lic en Sistemas**  
+- 🌱 &nbsp; Estoy aprendiendo más sobre **Programacion,Redes Y Hacking**  
+- 💬 &nbsp; Me gusta hablar sobre **Java,Phyton, C++**  
+- 📫 &nbsp; Contáctame en **[LinkedIn](https://www.linkedin.com/in/facundo-jonas-043a0020a/)**  
 
 ## 🔥 **Tecnologías y herramientas** 🚀💻
 
