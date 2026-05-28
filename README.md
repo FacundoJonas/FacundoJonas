@@ -28,7 +28,7 @@
 
 - 💼 &nbsp; **Estudiando Lic en Sistemas**  
 - 🌱 &nbsp; Estoy aprendiendo más sobre **Programacion,Redes Y Hacking**  
-- 💬 &nbsp; Me gusta hablar sobre **Java,Phyton, C++**  
+- 💬 &nbsp; Me gusta hablar sobre **Java,Phyton, C++, COBOL**  
 - 📫 &nbsp; Contáctame en <a href="https://www.linkedin.com/in/facundo-jonas-043a0020a/" target="_blank" style="font-size: 16px; color: black; font-weight: bold; text-decoration: none;">LinkedIn</a>
 
 
